@@ -1,0 +1,30 @@
+{
+  "name": "Host-list",
+  "author": "muhanstudio",
+  "url": "https://github.com/muhanstudio/siyuan-widget-Host-list",
+  "version": "0.0.2",
+  "minAppVersion": "1.1.1",
+  "displayName": {
+    "default": "Host-list",
+    "zh_CN": "今日热榜"
+  },
+  "description": {
+    "default": "Real-time display of today's hot lists on various platforms. The ones that have been supported are Baidu Tieba, V2EX hot posts, Omelette, zhihu, global host communication forum, what's worth buying-popular articles, fruit shells, new hot lists in drawers, geek information, cCTV highlights, headline recommendations, New York Times Chinese website-international bulletin, Sina technology, Appstore country rankings, AppStore US rankings",
+    "zh_CN": "实时显示今日各平台热榜，已经支持的有百度贴吧, V2EX热帖, 煎蛋网, 知乎, 全球主机交流论坛, 什么值得买-热门文章, 果壳, 抽屉新热榜, 奇客的资讯, 央视要闻, 头条推荐, 纽约时报中文网-国际简报, 新浪科技, AppStore国区排行, AppStore美区排行。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "热榜", "bilibili" , "哔哩哔哩", "Host list"
+  ]
+}
